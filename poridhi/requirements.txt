@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sentence-transformers
+faiss-cpu
+numpy
+pandas
+datasets
+jinja2
+redis
+locust
